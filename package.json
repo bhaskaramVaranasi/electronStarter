@@ -1,0 +1,22 @@
+{
+  "name": "first",
+  "version": "0.0.1",
+  "description": "A small desktop application containing the list of the todo items for the day",
+  "main": "main.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/electron": "^1.4.29",
+    "electron": "^1.4.12"
+  },
+  "devDependencies": {
+    "@types/electron": "^1.4.29",
+    "@types/es6-promise": "0.0.32",
+    "@types/node": "^6.0.52",
+    "awesome-typescript-loader": "^3.0.0-beta.17",
+    "typescript": "^2.1.4"
+  }
+}
